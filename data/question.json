@@ -1,0 +1,31 @@
+{
+  "questions": [{
+      "question": "What is the name of the Shadow's homeworld on Babylon 5?",
+      "answer": "Z'ha'dum",
+      "decoys": ["Galifrey", "Hoth", "Arrakis", "Tagora", "Nihil", "Daxam",
+        "Acheron", "Skaro", "Crematoria", "Qo'noS"
+      ]
+    },
+    {
+      "question": "In Stargate SG-1, what galaxy is the lost city of Atlantis discovered to reside in?",
+      "answer": "Pegasus",
+      "decoys": ["Andromeda", "Seraphia", "Triangulum", "Krell", "Virgo",
+        "Kaliem", "Ida", "Shi'ar", "Xeno", "Isop"
+      ]
+    },
+    {
+      "question": "What is the meaning of the name Dunamis?",
+      "answer": "Power",
+      "decoys": ["Grace", "Happy", "Speed", "Honour", "Glory", "Light",
+        "Mercy", "Joy", "Peace", "Love"
+      ]
+    },
+    {
+      "question": "Who is the Richest of them all?",
+      "answer": "Ikechukwu Njoku",
+      "decoys": ["Donald Trump", "Warren Buffet", "Bill Gates", "Robert Kiyosaki", "Ophrah",
+        "Jay Z", "Beyonce", "Barrack Obama", "Nick Ross", "Disney"
+      ]
+    }
+  ]
+}
